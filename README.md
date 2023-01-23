@@ -1,4 +1,4 @@
-# Shared_Bikes_Demand-_Prediction
+# Shared_Bikes_Demand_Prediction
 
 - Run the code file 'Bike Sharing Assignment.ipynb' with input file as 'day.csv'
 
